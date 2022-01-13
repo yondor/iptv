@@ -165,3 +165,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdongzuo.jpg" group-title="移动·NewTV", NewTV动作电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯台" tvg-logo="" group-title="移动·NewTV", 凤凰资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文台" tvg-logo="" group-title="移动·NewTV", 凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
