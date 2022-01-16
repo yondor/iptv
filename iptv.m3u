@@ -5,6 +5,8 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TOP·HOT", CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卡塔尔半岛新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TOP·HOT", 卡塔尔半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TOP·HOT", 浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TOP·HOT", 浙江卫视国际
