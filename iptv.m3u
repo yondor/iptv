@@ -21,6 +21,10 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TOP·HOT", 浙江卫视国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",XXX 1
+https://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",XXX 2
+https://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="移动·央视", CCTV-1综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="移动·央视", CCTV-2财经
