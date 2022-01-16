@@ -13,9 +13,9 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡塔尔半岛新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="TOP·HOT", 卡塔尔半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="" group-title="TOP·HOT", TVB翡翠台
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="TOP·HOT", TVB翡翠台
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="" group-title="TOP·HOT", TVB翡翠华丽台
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="TOP·HOT", TVB翡翠华丽台
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TOP·HOT", 浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
