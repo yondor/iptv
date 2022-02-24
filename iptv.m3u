@@ -11,8 +11,16 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="TOP·HOT", CGTN Documentary 
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT News Auto" tvg-logo="" group-title="TOP·HOT", RT News Auto
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT News" tvg-logo="" group-title="TOP·HOT", RT News 
- https://rt-glb.gcdn.co/live/rtnews/playlist_2500Kb.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="" group-title="TOP·HOT", RT America 
+https://rt-usa.gcdn.co/live/rtusa/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT UK" tvg-logo="" group-title="TOP·HOT", RT UK 
+https://rt-uk.gcdn.co/live/rtuk/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="" group-title="TOP·HOT", RT Documentary
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡塔尔半岛新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="TOP·HOT", 卡塔尔半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="TOP·HOT", TVB翡翠台
