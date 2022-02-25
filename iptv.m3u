@@ -1,4 +1,37 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="TOP·HOT", CCTV1超清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv1_1td.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="TOP·HOT", CCTV1高清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv1_1ud.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="TOP·HOT", CCTV1标清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv1_1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="TOP·HOT", CCTV1流畅
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv1_1md.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="TOP·HOT", CCTV4超清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1td.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="TOP·HOT", CCTV4高清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1ud.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="TOP·HOT", CCTV4标清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="TOP·HOT", CCTV4流畅
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1md.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="TOP·HOT", CCTV13超清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1td.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="TOP·HOT", CCTV13高清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1ud.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="TOP·HOT", CCTV13标清
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="TOP·HOT", CCTV13流畅
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv4_1md.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="TOP·HOT", CCTV5
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv5_1_td.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="TOP·HOT", CCTV5
+https://cctvcnch5c.v.wscdns.com/live/cdrmcctv5_1_1800/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="TOP·HOT", CCTV5
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv5_1td.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="TOP·HOT", CCTV5
+https://cctvalih5c.v.myalicdn.com/live/cdrmcctv5_1td.m3u8
+https://cctvksh5c.v.kcdnvip.com/live/cdrmcctv5_1/index.m3u8?BR=td&region=beijing
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="TOP·HOT", 凤凰资讯台
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="TOP·HOT", 凤凰中文台
