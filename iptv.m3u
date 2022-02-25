@@ -25,6 +25,32 @@ https://rt-uk.gcdn.co/live/rtuk/playlist_1600Kb.m3u8
 https://rt-rtd.gcdn.co/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡塔尔半岛新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="TOP·HOT", 卡塔尔半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" status="blocked",CNN USA (360p)
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" status="online",CNN USA (360p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" status="online",CNN USA (360p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" status="online",CNN USA (480p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" status="online",CNN USA (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CloudflareTV.us" status="online",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" status="error",CNBC (1080p) [Not 24/7]
+http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",CBS News Live (360p)
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" status="online",CBSN Boston (720p)
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",CBS News Live (360p)
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" status="online",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" status="online",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="RTDoc.ru" status="online",RT Documentary Russian (1080p)
+https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="TOP·HOT", TVB翡翠台
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="TOP·HOT", TVB翡翠华丽台
