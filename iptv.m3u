@@ -36,13 +36,13 @@ https://cctvksh5c.v.kcdnvip.com/live/cdrmcctv5_1/index.m3u8?BR=td&region=beijing
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="TOP·HOT", 凤凰中文台
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TOP·HOT", CGTN
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="TOP·HOT", CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC News" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TOP·HOT", CNC News
+#EXTINF:-1 tvg-id="" tvg-name="CNC News" tvg-logo="" group-title="TOP·HOT", CNC News
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC 中文" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TOP·HOT", CNC 中文
+#EXTINF:-1 tvg-id="" tvg-name="CNC 中文" tvg-logo="" group-title="TOP·HOT", CNC 中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="TOP·HOT", CGTN Documentary 
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="" group-title="TOP·HOT", CGTN Documentary 
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT News Auto" tvg-logo="" group-title="TOP·HOT", RT News Auto
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
