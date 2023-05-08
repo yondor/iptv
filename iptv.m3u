@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="央视",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://cntv.sbs/live?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
