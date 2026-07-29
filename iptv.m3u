@@ -1,4 +1,191 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
+
+#EXTINF:-1,group-title="CCTV",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+#EXTINF:-1,group-title="CCTV",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1,group-title="CCTV",CGTN America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1,group-title="CCTV",CCTV-9 纪录
+https://xykt-fix.github.io/Y77.m3u8
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv9_1/index.m3u8?b=200-2100
+
+#EXTINF:-1,group-title="CCTV",CCTV-13 新闻
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1_td.m3u8
+
+#EXTINF:-1,group-title="凤凰",凤凰卫视资讯台(音频)
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin48.m3u8
+
+#EXTINF:-1,group-title="凤凰",凤凰卫视中文台(音频)
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc48.m3u8
+
+#EXTINF:-1,group-title="港澳",香港有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江卫视4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江新闻
+http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江国际
+http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江经济生活
+http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江教科影视
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江民生休闲
+http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+
+#EXTINF:-1,group-title="卫视",浙江少儿
+http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+
+#EXTINF:-1,group-title="News",新华社CNC英文台
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+
+#EXTINF:-1,group-title="News",新华社CNC中文台
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+
+#EXTINF:-1,group-title="News",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1,group-title="News",CBS News
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+
+#EXTINF:-1,group-title="News",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1,group-title="News",CNBC News
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,group-title="News",NBC News
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
+#EXTINF:-1,group-title="News",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,group-title="News",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1,group-title="News",DW News
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1,group-title="News",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1,group-title="News",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1,group-title="News",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1,group-title="Business",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1,group-title="Business",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1,group-title="Business",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1,group-title="Business",CGTN Global Biz
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
+#EXTINF:-1,group-title="Business",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+
+#EXTINF:-1,group-title="Business",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",Discovering China
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1,group-title="Documentary",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+http://185.102.171.218/NatGeo/index.m3u8
+http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+
+#EXTINF:-1,group-title="Documentary",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1,group-title="广播",CNR中国之声
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+
+#EXTINF:-1,group-title="广播",CNR音乐之声
+https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+
+#EXTINF:-1,group-title="广播",CNR经济之声
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+#EXTINF:-1,group-title="广播",CRI环球资讯广播
+https://sk.cri.cn/905.m3u8
+
+#EXTINF:-1,group-title="广播",CRI华语环球广播
+https://sk.cri.cn/hyhq.m3u8
+
+#EXTINF:-1,group-title="广播",CRI轻松调频EASY FM
+https://sk.cri.cn/915.m3u8
+
+#EXTINF:-1,group-title="广播",CRI劲曲调频HITFM
+https://sk.cri.cn/887.m3u8
+
+#EXTINF:-1,group-title="广播",CRI怀旧金曲广播
+https://lhttp.qingting.fm/live/5022038/64k.mp3
+
+#EXTINF:-1,group-title="广播",CGTN ENGLISH Radio
+https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
+
+#EXTINF:-1,group-title="广播",CGTN Documentary Radio
+https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2
